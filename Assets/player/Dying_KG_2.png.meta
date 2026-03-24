@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 9b5cb13cf17d95f418689335a49dc1c5
+guid: 74edf6ffde43e4746951677b0e198eeb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7134453638355003615
-    second: Jump_KG_2_0
+      213: -934107167333641770
+    second: Dying_KG_2_0
   - first:
-      213: 7803281734061422591
-    second: Jump_KG_2_1
+      213: -4724178020169688997
+    second: Dying_KG_2_1
   - first:
-      213: 8458637065299637371
-    second: Jump_KG_2_2
+      213: 5860251806280768263
+    second: Dying_KG_2_2
   - first:
-      213: -8752113897201174074
-    second: Jump_KG_2_3
+      213: -3895776246202452889
+    second: Dying_KG_2_3
   - first:
-      213: 828671630536272562
-    second: Jump_KG_2_4
+      213: 6506606307051743788
+    second: Dying_KG_2_4
   - first:
-      213: 6587891932400062364
-    second: Jump_KG_2_5
+      213: 5838909148544467932
+    second: Dying_KG_2_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jump_KG_2_0
+      name: Dying_KG_2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -143,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1275b5347345dfc90800000000000000
-      internalID: -7134453638355003615
+      spriteID: 6d19eecfa726903f0800000000000000
+      internalID: -934107167333641770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_KG_2_1
+      name: Dying_KG_2_1
       rect:
         serializedVersion: 2
         x: 100
@@ -165,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff77601c463da4c60800000000000000
-      internalID: 7803281734061422591
+      spriteID: b58d314de19507eb0800000000000000
+      internalID: -4724178020169688997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_KG_2_2
+      name: Dying_KG_2_2
       rect:
         serializedVersion: 2
         x: 200
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b743329589d136570800000000000000
-      internalID: 8458637065299637371
+      spriteID: 70bd4b708fbc35150800000000000000
+      internalID: 5860251806280768263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_KG_2_3
+      name: Dying_KG_2_3
       rect:
         serializedVersion: 2
         x: 300
@@ -209,14 +209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c9709bf7ce3a8680800000000000000
-      internalID: -8752113897201174074
+      spriteID: 764b2b0152c6fe9c0800000000000000
+      internalID: -3895776246202452889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_KG_2_4
+      name: Dying_KG_2_4
       rect:
         serializedVersion: 2
         x: 400
@@ -231,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2baee8d1578008b00800000000000000
-      internalID: 828671630536272562
+      spriteID: c2aa22976fb1c4a50800000000000000
+      internalID: 6506606307051743788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_KG_2_5
+      name: Dying_KG_2_5
       rect:
         serializedVersion: 2
         x: 500
@@ -253,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9f0e51fec4ec6b50800000000000000
-      internalID: 6587891932400062364
+      spriteID: cd385ca4fe8f70150800000000000000
+      internalID: 5838909148544467932
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4f364f8bd8c4b234ea35969376996c4a
+    spriteID: e42efc929eb2c914d933249de2bcfbcd
     internalID: 0
     vertices: []
     indices: 
@@ -275,12 +275,12 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Jump_KG_2_0: -7134453638355003615
-      Jump_KG_2_1: 7803281734061422591
-      Jump_KG_2_2: 8458637065299637371
-      Jump_KG_2_3: -8752113897201174074
-      Jump_KG_2_4: 828671630536272562
-      Jump_KG_2_5: 6587891932400062364
+      Dying_KG_2_0: -934107167333641770
+      Dying_KG_2_1: -4724178020169688997
+      Dying_KG_2_2: 5860251806280768263
+      Dying_KG_2_3: -3895776246202452889
+      Dying_KG_2_4: 6506606307051743788
+      Dying_KG_2_5: 5838909148544467932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
