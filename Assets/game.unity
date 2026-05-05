@@ -179,7 +179,7 @@ TilemapCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 8e31aa25258f9634bab5959de56b2144, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
